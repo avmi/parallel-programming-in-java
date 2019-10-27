@@ -1,0 +1,22 @@
+0 test(s) failed out of 1 test(s).
+
+
+
+=========== Test output for 2 cores ===========
+JUnit version 3.8.2
+.Fuzzy barrier parallel implementation ran 1.340892x faster than the barrier implementation
+
+Time: 448.823
+
+OK (1 test)
+
+===============================================
+=========== Test output for 4 cores ===========
+JUnit version 3.8.2
+.Fuzzy barrier parallel implementation ran 1.230118x faster than the barrier implementation
+
+Time: 275.182
+
+OK (1 test)
+
+===============================================
