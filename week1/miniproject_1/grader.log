@@ -1,0 +1,20 @@
+0 test(s) failed out of 5 test(s).
+
+
+
+=========== Test output for 2 cores ===========
+JUnit version 4.12
+....
+Time: 57.037
+
+OK (4 tests)
+
+===============================================
+=========== Test output for 4 cores ===========
+JUnit version 4.12
+....
+Time: 52.855
+
+OK (4 tests)
+
+===============================================
